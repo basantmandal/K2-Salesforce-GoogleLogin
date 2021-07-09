@@ -8,9 +8,9 @@
 /**
  *
  * ++++++++++++++++++ SETTINGS +++++++++++++++++++++
- * Authorization URL :- https://www.amazon.com/ap/oa
- * Token URL :- https://api.amazon.com/auth/o2/token
- * User Info URL:- https://api.amazon.com/user/profile
+ * Authorization URL :- https://accounts.google.com/o/oauth2/auth
+ * Token URL :- https://accounts.google.com/o/oauth2/token
+ * User Info URL:- https://www.googleapis.com/oauth2/v3/userinfo
  * User Info URL Access Token Name:- access_token
  * Redirect Pipeline Name - OAuthReentryGooglePlus
  * ++++++++++++++++++++++++++++++++++++++++++++++++
