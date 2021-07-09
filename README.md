@@ -7,11 +7,11 @@ The Salesforce B2C Commerce - Google Authentication code is a Custom (OAuthReent
 
 |Fields  | Value  |
 | :------------ | :------------ |
-|Authorization URL  | **https://www.amazon.com/ap/oa**  |
-|Token URL| **https://api.amazon.com/auth/o2/token**  |
-|User Info URL  | **https://api.amazon.com/user/profile** |
-|User Info URL Access Token Name:| **access_token**  |
-|Redirect Pipeline Name| **OAuthReentryGooglePlus**  |
+|Authorization URL  | **`https://www.amazon.com/ap/oa`**  |
+|Token URL| **`https://api.amazon.com/auth/o2/token`**  |
+|User Info URL  | **`https://api.amazon.com/user/profile`** |
+|User Info URL Access Token Name:| **`access_token`**  |
+|Redirect Pipeline Name| **`OAuthReentryGooglePlus`**  |
 
 ### Commands
 1. `SFCC-CI auth:login`
