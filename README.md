@@ -19,4 +19,4 @@ The Salesforce B2C Commerce - Google Authentication code is a Custom (OAuthReent
 
 ##Version Requirements
 - **SFRA** > 5.3
-- **B2C ** > 21.5>
+- **B2C** > 21.5>
